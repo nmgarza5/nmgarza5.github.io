@@ -2893,6 +2893,15 @@ input, select, textarea {
 	color: rgb(0, 0, 0);
 }
 
+.icon-container2 a {
+	color: rgb(0, 0, 0);
+}
+
+.icon-container2 a:hover {
+	cursor: pointer;
+	transform: scale(1.2);
+}
+
 /* Section/Article */
 
 	section.special, article.special {
