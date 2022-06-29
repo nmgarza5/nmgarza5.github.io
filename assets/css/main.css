@@ -7350,9 +7350,9 @@ input, select, textarea {
 			box-shadow: inset 0px 0px 0px 1px rgb(0 0 0 / 15%), 0px 2px 3px 0px rgb(0 0 0 / 10%);
 		}
 
-		.single-project h5, .single-project h3, .single-project P {
+		.single-project h5, .single-project h3 {
 			font-weight: 600;
-			margin: 5px;
+			/* margin: 5px; */
 		}
 		.preview {
 			width: 100%;
